@@ -1,0 +1,12 @@
+{
+  "repositories":[
+  {
+      "type":"composer",
+      "url":"https://wpackagist.org"
+  }
+],
+  "require": {
+      "wpackagist-plugin/wp-scss": "^2.1",
+      "wpackagist-plugin/classic-editor": "^2.1"
+  }
+}

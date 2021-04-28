@@ -9,8 +9,11 @@ In order to do a bunk installation of the plugins and activate them
 you have to first login via ssh to the VEGA. Once you logged in 
 navigate to the site folder by typing cd sitename.etlspace.com
 
-To install all common plugins via WP-CLI run the following command:
+To only install all common plugins via WP-CLI run the following command:
 # wp plugin install (place here plugins.txt file content without parenthesis)
+
+To install and activate all plugins via WP-CLI run the following command:
+# wp plugin install (place here plugins.txt file content without parenthesis) --activate
 
 To install some speciefic plugin and activate it via WP-CLI run the following command:
 # wp plugin install plugin-name --activate
@@ -21,11 +24,11 @@ please note that you can find the plugin name under it's official
 wordpress plugin page like here https://wordpress.org/plugins/autoptimize/
 it will be "autoptimize"
 
-To activate previously installed common plugins via WP-CLI run the following command:
-# wp plugin activate --all
-
 To deativate previously installed common plugins via WP-CLI run the following command:
 # wp plugin deactivate --all
+
+In order to update all plugins simply run the following WP-CLI command:
+# wp plugin update --all
 
 Advanced Custom Fields PRO should be uploaded and installed manually.
 

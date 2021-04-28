@@ -1,4 +1,4 @@
-# common-plugins-list
+# plugins-list-manage-using-wp-cli
 
 This document contains all commonly used plugins list and instuctions
 on how to work with WP-CLI (https://wp-cli.org/).

@@ -14,6 +14,8 @@ wp plugin install (place here plugins.txt file content without parenthesis)
 To activate previously installed common plugins via WP-CLI run the following command:
 wp plugin activate (place here plugins.txt file content without parenthesis)
 
+Advanced Custom Fields PRO should be uploaded and installed manually.
+
 Issues you may experienced during plugins activation:
 1. "Uploads folder /var/www/virtual/sitename.etlspace.com/wp-content/uploads/wpallimport/logs must be writable"
   In order to fix that please run the following commands:

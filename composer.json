@@ -19,8 +19,7 @@
       "wpackagist-plugin/duplicate-post": "dev-trunk",
       "wpackagist-plugin/easy-fancybox": "dev-trunk",
       "wpackagist-plugin/enable-media-replace": "dev-trunk",
-      "wpackagist-plugin/real-media-library-lite": "dev-trunk",
-      "wpackagist-plugin/smush": "dev-trunk",
+      "wpackagist-plugin/real-media-library-lite": "dev-trunk",      
       "wpackagist-plugin/theme-check": "dev-trunk",
       "wpackagist-plugin/p3-profiler": "dev-trunk",
       "wpackagist-plugin/post-types-order": "dev-trunk",
@@ -41,6 +40,7 @@
       "wpackagist-plugin/wp-scss": "dev-trunk",
       "wpackagist-plugin/w3-total-cache": "dev-trunk",
       "wpackagist-plugin/wordfence": "dev-trunk",
-      "wpackagist-plugin/wordpress-seo": "dev-trunk"
+      "wpackagist-plugin/wordpress-seo": "dev-trunk",
+      "wpackagist-plugin/wp-smushit": "dev-trunk"
   }
 }

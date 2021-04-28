@@ -1,12 +1,46 @@
 {
   "repositories":[
   {
-      "type":"composer",
-      "url":"https://wpackagist.org"
+      "type": "composer",
+      "url": "https://wpackagist.org"
   }
 ],
-  "require": {
-      "wpackagist-plugin/wp-scss": "^2.1",
-      "wpackagist-plugin/classic-editor": "^2.1"
+  "require": {      
+      "wpackagist-plugin/acf-better-search": "dev-trunk",      
+      "wpackagist-plugin/acf-content-analysis-for-yoast-seo": "dev-trunk",      
+      "wpackagist-plugin/all-in-one-schemaorg-rich-snippets": "dev-trunk",      
+      "wpackagist-plugin/auto-image-attributes-from-filename-with-bulk-updater": "dev-trunk",      
+      "wpackagist-plugin/autoptimize": "dev-trunk",      
+      "wpackagist-plugin/breadcrumb-navxt": "dev-trunk",      
+      "wpackagist-plugin/broken-link-checker": "dev-trunk",      
+      "wpackagist-plugin/classic-editor": "dev-trunk",      
+      "wpackagist-plugin/contact-form-7": "dev-trunk",
+      "wpackagist-plugin/contact-form-cfdb7": "dev-trunk",
+      "wpackagist-plugin/duplicate-post": "dev-trunk",
+      "wpackagist-plugin/easy-fancyBox": "dev-trunk",
+      "wpackagist-plugin/enable-media-replace": "dev-trunk",
+      "wpackagist-plugin/real-media-library-lite": "dev-trunk",
+      "wpackagist-plugin/smush": "dev-trunk",
+      "wpackagist-plugin/theme-check": "dev-trunk",
+      "wpackagist-plugin/p3-profiler": "dev-trunk",
+      "wpackagist-plugin/post-types-order": "dev-trunk",
+      "wpackagist-plugin/relevanssi": "dev-trunk",
+      "wpackagist-plugin/redirection": "dev-trunk",
+      "wpackagist-plugin/regenerate-thumbnails": "dev-trunk",
+      "wpackagist-plugin/taxonomy-filter": "dev-trunk",
+      "wpackagist-plugin/taxonomy-terms-order": "dev-trunk",
+      "wpackagist-plugin/tinymce-advanced": "dev-trunk",
+      "wpackagist-plugin/svg-support": "dev-trunk",
+      "wpackagist-plugin/wp-all-import": "dev-trunk",
+      "wpackagist-plugin/wp-all-export": "dev-trunk",
+      "wpackagist-plugin/wp-extra-file-types": "dev-trunk",
+      "wpackagist-plugin/wp-mail-smtp": "dev-trunk",
+      "wpackagist-plugin/wp-mobile-detect": "dev-trunk",
+      "wpackagist-plugin/wp-optimize": "dev-trunk",
+      "wpackagist-plugin/wp-pagenavi": "dev-trunk",
+      "wpackagist-plugin/wp-scss": "dev-trunk",
+      "wpackagist-plugin/w3-total-cache": "dev-trunk",
+      "wpackagist-plugin/wordfence": "dev-trunk",
+      "wpackagist-plugin/wordpress-seo": "dev-trunk"
   }
 }
